@@ -13,10 +13,3 @@
 - 🎨 Modern Türkçe arayüz, splash ekran ve özel ikon
 
 ---
-
-## 📦 Kurulum
-
-1. **Depoyu indirin veya klasörü açın**
-
-   ```bash
-   cd EnderKontrol
