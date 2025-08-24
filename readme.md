@@ -15,7 +15,14 @@
 ---
 
 
-![Uygulama Ekran Görüntüsü]
+# Uygulama Ekran Görüntüleri
 <p align="center">
-  <img src="assets/screenshot.png" alt="EnderKontrol Arayüzü" width="600"/>
+  <img src="images/screenshot.png" alt="EnderKontrol Arayüzü" width="600"/>
 </p>
+<p align="center">
+  <img src="images/screenshot.png" alt="EnderKontrol Arayüzü" width="600"/>
+</p>
+<p align="center">
+  <img src="images/screenshot.png" alt="EnderKontrol Arayüzü" width="600"/>
+</p>
+
