@@ -13,3 +13,9 @@
 - 🎨 Modern Türkçe arayüz, splash ekran ve özel ikon
 
 ---
+
+
+![Uygulama Ekran Görüntüsü]
+<p align="center">
+  <img src="assets/screenshot.png" alt="EnderKontrol Arayüzü" width="600"/>
+</p>
