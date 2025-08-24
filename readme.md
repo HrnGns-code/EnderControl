@@ -20,21 +20,27 @@
 ### 1-<p align="center">
   <img src="images/screenshot.png" alt="EnderKontrol Arayüzü" width="600"/>
 </p>
+
 ### 2-<p align="center">
   <img src="images/screenshot1.png" alt="EnderKontrol Arayüzü" width="600"/>
 </p>
+
 ### 3-<p align="center">
   <img src="images/screenshot2.png" alt="EnderKontrol Arayüzü" width="600"/>
 </p>
+
 ### 4-<p align="center">
   <img src="images/screenshot3.png" alt="EnderKontrol Arayüzü" width="600"/>
 </p>
+
 ### 5-<p align="center">
   <img src="images/screenshot4.png" alt="EnderKontrol Arayüzü" width="600"/>
 </p>
+
 ### 6-<p align="center">
   <img src="images/screenshot5.png" alt="EnderKontrol Arayüzü" width="600"/>
 </p>
+
 
 
 
